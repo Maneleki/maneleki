@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-# About Me
+# About Me 🐞
 
 Hello! I'm a passionate software testing student. I have a keen eye for detail and enjoy ensuring that software applications run smoothly and efficiently. I'm constantly learning and exploring how to test and ensure quality in order to improve the quality of software products.
 
 ## Interests
 
-- Software Testing
-- Test Automation
-- Quality Assurance
-- Communication
+- Software Testing 🔎
+- Test Automation ✅
+- Quality Assurance 🔝
+- Communication 🔊
 
 
 ## Skills
